@@ -174,11 +174,6 @@ Potential improvements for this project:
 
 This project is open source.
 
-## Author
-
-**Sasanka Hemakumara**
- - Email: 2022s19400@stu.cmb.ac.lk
-
 ## Acknowledgments
 
 - Built as part of Advanced Programming Techniques coursework
@@ -187,4 +182,6 @@ This project is open source.
 
 ---
 
-**Note:** This is a learning project demonstrating fundamental database programming concepts with Java and MySQL.
+## Author
+
+**Sasanka Hemakumara**
